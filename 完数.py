@@ -8,3 +8,4 @@ for i in range(1,n):
             sum+=j
     if sum==i:
         print("{} its factors are".format(i),*ls)
+#201219 153200
